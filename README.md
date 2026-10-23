@@ -34,3 +34,7 @@ The goal of this project is to turn raw sales data into meaningful insights thro
 ---
 
 Created as part of my Data Analyst portfolio.
+
+## Dashboard Preview
+
+![Excel Sales Dashboard](DAshboard.png)
